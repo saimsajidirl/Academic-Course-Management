@@ -1,3 +1,5 @@
+![{AF9BE525-8BF3-4155-9DCE-138C2E017B0F}](https://github.com/user-attachments/assets/17ed0812-0ebe-4055-b109-0d6c8092571f)
+
 ModernSOSManager - Documentation
 
 The ModernSOSManager class is a Python-based GUI (Graphical User Interface) application built using the Tkinter and Ttk libraries with additional support from the ttkthemes package to provide a modern interface. The application acts as a study management system, helping users manage course information, including the course name, instructor, credits, schedule, and semester. It also integrates basic CRUD (Create, Read, Update, Delete) functionality with additional features like saving, loading, and sorting courses.
